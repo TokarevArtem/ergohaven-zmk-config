@@ -104,7 +104,7 @@
             display-name = "Adjust";
             sensor-bindings =
                 <&inc_dec_kp LA(TAB) LS(LA(TAB))>,
-                <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
+                <&inc_dec_kp LG(RIGHT_ARROW) LG(LEFT_ARROW)>;
         };
 
         hmr_base {
